@@ -1,16 +1,8 @@
 ### Hi there 👋
 
-### I'm a Partner Solutions Architect at AWS, leading our Digital Customer Experience segment. In a previous role I was a Software Development Manager working on the Cloud Development Kit (CDK), and I'm active in the Builder Experience Technical Field Community.
+### I'm a Specialist Solutions Architect at AWS, leading the Builder Experience Infrastructure as Code (IaC) group. I'm focused on improving open source community engagement for AWS CloudFormation and the AWS Cloud Development Kit (CDK).
 
 Follow me on Twitter [@ericzbeard](https://twitter.com/EricZBeard)
-
-### APN
-
-https://aws.amazon.com/partners/
-
-### DCX
-
-https://aws.amazon.com/advertising-marketing/partner-solutions/
 
 ### CDK
 
