@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm a Specialist Solutions Architect at AWS, leading the Builder Experience Infrastructure as Code (IaC) group. I'm focused on improving open source community engagement for AWS CloudFormation and the AWS Cloud Development Kit (CDK).
+I'm a Specialist Solutions Architect at AWS, leading the Builder Experience Infrastructure as Code (IaC) group. I'm focused on improving open source community engagement for AWS CloudFormation and the AWS Cloud Development Kit (CDK).
 
 Follow me on Twitter [@ericzbeard](https://twitter.com/EricZBeard)
 
